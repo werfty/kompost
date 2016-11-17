@@ -1,0 +1,4 @@
+origin:
+- 'https://github.com/monitoringartist/zabbix-xxl/blob/master/Dockerfile/zabbix-xxl/docker-compose-v2.yml'
+project:
+- 'http://www.zabbix.com/'
